@@ -13,5 +13,16 @@
     padding: 20px;
 }
 
+.content {
+    position: absolute;
+    width: 1000px;
+    left: 350px;
+    text-align: center;
+    padding: 20px;
+    font-display: revert-layer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+}
+
 
 
