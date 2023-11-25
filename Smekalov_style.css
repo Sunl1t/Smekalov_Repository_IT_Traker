@@ -24,5 +24,34 @@
     font-size: medium;
 }
 
+.h1 {
+    color: black;
+}
 
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+    a:focus {
+        color: #11999E;
+    }
+
+li {
+    text-decoration: from-font;
+    font-size: x-large;
+    color: #393E46;
+}
+
+p {
+    text-align: center;
+    text-orientation: inherit;
+    color: slategrey;
+}
 
