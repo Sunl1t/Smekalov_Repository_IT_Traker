@@ -24,10 +24,15 @@
     font-size: medium;
 }
 
-.h1 {
+h1 {
     color: black;
 }
-
+header {
+    color: #A8D8EA;
+}
+footer {
+    color: #A8D8EA;
+}
 ul {
     list-style-type: none;
     padding: 0;
